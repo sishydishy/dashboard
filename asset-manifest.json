@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dashboard/static/css/main.5ec7e2ca.chunk.css",
+    "main.css": "/dashboard/static/css/main.07c6de02.chunk.css",
     "main.js": "/dashboard/static/js/main.4cac9e18.chunk.js",
     "main.js.map": "/dashboard/static/js/main.4cac9e18.chunk.js.map",
     "runtime-main.js": "/dashboard/static/js/runtime-main.1e56bebc.js",
@@ -422,15 +422,15 @@
     "mode-groovy.js": "/dashboard/fe6efc8bf7b948aa275d980518b286b7.js",
     "theme-gruvbox.js": "/dashboard/feff703ce532f20391dfed8199b6971e.js",
     "index.html": "/dashboard/index.html",
-    "precache-manifest.72460a3f4b18ff9dcd67e6c8f7cddeb9.js": "/dashboard/precache-manifest.72460a3f4b18ff9dcd67e6c8f7cddeb9.js",
+    "precache-manifest.b07b92e85beb248b700fd166c3f8f027.js": "/dashboard/precache-manifest.b07b92e85beb248b700fd166c3f8f027.js",
     "service-worker.js": "/dashboard/service-worker.js",
-    "static/css/main.5ec7e2ca.chunk.css.map": "/dashboard/static/css/main.5ec7e2ca.chunk.css.map",
+    "static/css/main.07c6de02.chunk.css.map": "/dashboard/static/css/main.07c6de02.chunk.css.map",
     "static/js/2.b090704f.chunk.js.LICENSE.txt": "/dashboard/static/js/2.b090704f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1e56bebc.js",
     "static/js/2.b090704f.chunk.js",
-    "static/css/main.5ec7e2ca.chunk.css",
+    "static/css/main.07c6de02.chunk.css",
     "static/js/main.4cac9e18.chunk.js"
   ]
 }
